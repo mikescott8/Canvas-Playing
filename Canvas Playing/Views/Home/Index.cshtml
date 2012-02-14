@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@* Optional : Include additional stylesheets *@
+@section StylesTop
+{
+}
+
+@* Optional : Include additional immediately executed script references *@
+@section ScriptsTop
+{
+}
+
+@* Optional : Header content *@
+@section Header
+{
+    @{ Html.RenderPartial("_Header"); }
+}
+
+@* Optional : Nav content *@
+@section Nav
+{
+    @{ Html.RenderPartial("_Nav"); }
+}
+
+@* Required : Render body container here *@
+<canvas id="myCanvas" width="500" height="500" style="border: 5px solid black" >
+    <p>Some sample content.</p>
+</canvas>
+
+@* Optional : Include fooder content *@
+@section Footer
+{
+    @{ Html.RenderPartial("_Footer"); }
+}
+
+@* Optional : Include additional deferred script references, or page initialization *@
+@section ScriptsBottom
+{
+    <script type="text/javascript" language="javascript" src="../../Scripts/Custom/HomeIndex.js" />
+	<script>
+	    $(document).ready(function () {
+	        alert('test');
+	    });
+	</script>
+}

@@ -1,0 +1,62 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/f:robots.txt" caret="0" fromTop="0" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.js" caret="1692" fromTop="21" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Shared/f:_Layout.cshtml" caret="663" fromTop="11" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Shared/f:_Header.cshtml" caret="0" fromTop="0" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Content/d:Styles/f:site.css" caret="702" fromTop="25" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Home/f:Index.cshtml" caret="112" fromTop="7" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="816" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="2" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Home/f:Index.cshtml" caret="216" fromTop="6" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Home/f:Index.cshtml" caret="978" fromTop="37" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Shared/f:_Layout.cshtml" caret="771" fromTop="13" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="10" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="22" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Content/d:Styles/f:site.css" caret="419" fromTop="6" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Content/d:Styles/f:site.css" caret="798" fromTop="31" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Content/d:Styles/f:site.css" caret="702" fromTop="25" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Views/d:Home/f:Index.cshtml" caret="534" fromTop="21" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="673" fromTop="4" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="673" fromTop="11" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="673" fromTop="9" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="19" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="15" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="137" fromTop="5" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="14" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="1043" fromTop="32" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="932" fromTop="17" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="533" fromTop="20" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="184" fromTop="7" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="50" fromTop="3" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="416" fromTop="20" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="187" fromTop="10" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="973" fromTop="8" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="918" fromTop="11" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="697" fromTop="9" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="1136" fromTop="15" />
+      <File id="C9DF77E6-A65C-4780-9135-85C3DB90C68B/d:Scripts/d:Custom/f:HomeIndex.coffee" caret="816" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,37 @@
+﻿/* ------------------------------------------------------------------------------------------- */
+/* Place site specific CSS in this file. Make sure you minify and compress prior to deployment */
+/* You could even automate it using Squish or similar as part of the build process             */
+/* ------------------------------------------------------------------------------------------- */
+header
+{
+    height:50px;
+    background-color:#ccc;
+}
+
+nav
+{
+    height:50px;
+    background-color:#efefef;
+    margin:0 20px 0 0;
+}
+
+nav ul li, footer ul li
+{
+    display: inline-block;
+}
+
+footer
+{
+    height:150px;
+    background-color:#efefef;
+    margin:20px 0 0 0;
+}
+
+canvas2
+{
+    height:400px;
+	width:500px;
+	border-width:5px;
+	border-color: Black;
+	border-style:inset;
+}

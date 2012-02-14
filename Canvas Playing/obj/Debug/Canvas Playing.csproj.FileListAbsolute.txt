@@ -1,0 +1,7 @@
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\bin\Canvas Playing.dll
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\bin\Canvas Playing.pdb
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\bin\EntityFramework.dll
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\bin\EntityFramework.xml
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\obj\Debug\Canvas Playing.dll
+c:\users\mike.hamilton\documents\visual studio 2010\Projects\Personal\Canvas Playing\Canvas Playing\obj\Debug\Canvas Playing.pdb

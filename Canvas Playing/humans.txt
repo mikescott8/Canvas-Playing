@@ -1,0 +1,42 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  <your title>: <your name>
+  Site: 
+  Twitter: 
+  Location: 
+
+                                                                                                                      
+                                                                                                                        
+                                                         :8O8=                                                          
+                                                      O777777777O                                                       
+                                                    O7777.   .7777O                                                     
+                                                   O$ZO.        $$$O                                                    
+                                                  M$OO. .OOOOO  .$$$O                                                   
+                                                  OOO.  OOOOOOO   ZZZ                                                   
+                                                  888   8888D88   888                                                   
+                                                  NMM.  MMMMMMM   NNN.                                                  
+                                                  NNN   NNNNNNN   NNN                                                   
+                                                   DD.  DDDDDDD   DD                                                    
+                                                    888888888888888.                                                    
+                                                     .OOOOOOOOO8O:7.                                                    
+                                                        ..OOO.                                                          
+                                                                                                                        
+                ...           .     .   .        .                     .    .    ..         .            .              
+             .OOOOOOOO.    OOOOOOOOOO. OOO       OO.,OOOOOOOOOO.   :OOOOOOOOOO  OOOOOOOOO  OO?   OOOOOOOOOO             
+             OOO.  .OOO. .OOO..        OOO       OO         OOOO  OOOO.        OOO         OO+ .OOO      ..             
+            OOO.    .OOO OOOOOOOOO.    OOO       OO           OO+ OOOOOOOOO.   .OOOO       OO+ OOO.                     
+            OOO      .OO OOOOOOOOOO    OOO       OO           OOO.OOOOOOOOO.    ..OOOOOO   OO+ OO.                      
+            OOO       OO OOO.          :OO.     OOO          .OO..OOO               ..OOO. OO+ OOO.                     
+            OOO       OO  OOOOO77777.   8OOO+ OOOO. .=77777OOOOO  .OOOOO77777.         OO  OO+  OOOOO77777.             
+            OOO      .OO    OOOOOOOOO.   .OOOOOOO.  ,OOOOOOOOO     .OOOOOOOOOO OOOOOOOOO=  OO+  .OOOOOOOOOO.            
+
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
