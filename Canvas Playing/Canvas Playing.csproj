@@ -76,8 +76,6 @@
     <Content Include="humans.txt" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\Custom\HomeIndex.js">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <DependentUpon>HomeIndex.coffee</DependentUpon>
     </Content>
     <Content Include="Scripts\jquery-1.7.1-vsdoc.js" />
@@ -116,10 +114,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Scripts\Custom\HomeIndex.coffee">
-      <Generator>CoffeeScriptGenerator</Generator>
-      <LastGenOutput>HomeIndex.js</LastGenOutput>
-    </None>
+    <None Include="Scripts\Custom\HomeIndex.coffee" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
